@@ -1,0 +1,28 @@
+Project: Terminal Python Chatbot Assignment
+Author: [Your Name]
+Date: November 23, 2025
+
+Description:
+This project is a simple rule-based chatbot, implemented in pure Python, designed to simulate terminal-style chat conversation for assignment submission. It does not require any external libraries or frameworks, and can be run in Google Colab or any standard Python environment.
+
+Files included:
+- chatbot.py (or chatbot.ipynb)
+- manifest.txt
+- Screenshot.png (example input/output)
+- [Optional] README.md
+
+Requirements:
+- Python 3.x (Colab or local installation)
+- No additional pip packages required
+
+Run Instructions:
+1. Open chatbot.py in your Python environment or upload chatbot.ipynb to Google Colab.
+2. Run the code.
+3. Interact in the terminal/chat window; type 'exit' to end the session.
+
+GitHub repository:
+https://github.com/[your-username]/[your-repo-name]
+
+Notes:
+- This implementation replaces ChatterBot/Django with a simple Python script for easier compatibility.
+- All comments and variable names follow coding best practices.
